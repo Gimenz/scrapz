@@ -1,2 +1,3 @@
 # scrapz
-a code while i was gabut
+
+> web scraper with many languages
